@@ -1,10 +1,10 @@
-package shop.samdul.greeting;
+package samdul.shop.hellojava;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GreetingApplicationTests {
+class HellojavaApplicationTests {
 
 	@Test
 	void contextLoads() {

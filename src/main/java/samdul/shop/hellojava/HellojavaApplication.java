@@ -1,13 +1,13 @@
-package shop.samdul.greeting;
+package samdul.shop.hellojava;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GreetingApplication {
+public class HellojavaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GreetingApplication.class, args);
+		SpringApplication.run(HellojavaApplication.class, args);
 	}
 
 }
